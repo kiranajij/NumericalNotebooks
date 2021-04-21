@@ -1,5 +1,6 @@
-.ipy*
-.py
-.pyc
-.gif
+.ipynb_checkpoints
+*.pyc
+*.gif
+*.png
+
 
